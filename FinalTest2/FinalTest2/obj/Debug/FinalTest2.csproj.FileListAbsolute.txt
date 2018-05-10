@@ -1,0 +1,35 @@
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\FinalTest2\FinalTest2\bin\Debug\FinalTest2.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\FinalTest2\FinalTest2\bin\Debug\FinalTest2.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\FinalTest2\FinalTest2\obj\Debug\Display.baml
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\FinalTest2\FinalTest2\obj\Debug\MainWindow.baml
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\FinalTest2\FinalTest2\obj\Debug\showShared.baml
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\FinalTest2\FinalTest2\obj\Debug\Display.g.cs
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\FinalTest2\FinalTest2\obj\Debug\MainWindow.g.cs
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\FinalTest2\FinalTest2\obj\Debug\showShared.g.cs
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\FinalTest2\FinalTest2\obj\Debug\App.g.cs
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\FinalTest2\FinalTest2\obj\Debug\FinalTest2_MarkupCompile.cache
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\FinalTest2\FinalTest2\obj\Debug\FinalTest2.g.resources
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\FinalTest2\FinalTest2\obj\Debug\FinalTest2.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\FinalTest2\FinalTest2\obj\Debug\FinalTest2.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\FinalTest2\FinalTest2\obj\Debug\FinalTest2.pdb
+C:\Users\Administrator\documents\visual studio 2013\Projects\FinalTest2\FinalTest2\obj\Debug\FinalTest2.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\documents\visual studio 2013\Projects\FinalTest2\FinalTest2\bin\Debug\FinalTest2.pdb
+C:\Users\Administrator\documents\visual studio 2013\Projects\FinalTest2\FinalTest2\obj\Debug\FinalTest2.exe
+D:\Projects\FinalTest2\FinalTest2\bin\Debug\FinalTest2.exe.config
+D:\Projects\FinalTest2\FinalTest2\obj\Debug\FinalTest2.exe
+D:\Projects\FinalTest2\FinalTest2\obj\Debug\FinalTest2.pdb
+D:\Projects\FinalTest2\FinalTest2\bin\Debug\FinalTest2.exe
+D:\Projects\FinalTest2\FinalTest2\bin\Debug\FinalTest2.pdb
+D:\Projects\FinalTest2\FinalTest2\obj\Debug\FinalTest2.csprojResolveAssemblyReference.cache
+D:\Projects\FinalTest2\FinalTest2\obj\Debug\Display.baml
+D:\Projects\FinalTest2\FinalTest2\obj\Debug\MainWindow.baml
+D:\Projects\FinalTest2\FinalTest2\obj\Debug\showShared.baml
+D:\Projects\FinalTest2\FinalTest2\obj\Debug\Display.g.cs
+D:\Projects\FinalTest2\FinalTest2\obj\Debug\MainWindow.g.cs
+D:\Projects\FinalTest2\FinalTest2\obj\Debug\showShared.g.cs
+D:\Projects\FinalTest2\FinalTest2\obj\Debug\App.g.cs
+D:\Projects\FinalTest2\FinalTest2\obj\Debug\FinalTest2_MarkupCompile.cache
+D:\Projects\FinalTest2\FinalTest2\obj\Debug\FinalTest2.g.resources
+D:\Projects\FinalTest2\FinalTest2\obj\Debug\FinalTest2.Properties.Resources.resources
+D:\Projects\FinalTest2\FinalTest2\obj\Debug\FinalTest2.csproj.GenerateResource.Cache
+D:\Projects\FinalTest2\FinalTest2\obj\Debug\FinalTest2.csproj.CoreCompileInputs.cache

@@ -1,0 +1,21 @@
+﻿<Window x:Class="FinalTest2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Shared Game Profiler" Height="400" Width="725">
+    <Grid>
+        <TextBlock HorizontalAlignment="Center" Height="31" Margin="125,10,125,0" Text="Shared Games Profiler" VerticalAlignment="Top" Width="300" FontSize="24" TextWrapping="Wrap" TextAlignment="Center"/>
+        <TextBlock HorizontalAlignment="Center" Margin="172,58,125,0" TextWrapping="Wrap" Text=" Please enter your steam profile id and up to 3 friends or other players." VerticalAlignment="Top" Width="420" Height="28"/>
+        <TextBlock HorizontalAlignment="Left" Margin="57,105,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Text="Your Profile"/>
+        <TextBox x:Name="userProfileText" HorizontalAlignment="Left" Height="23" Margin="57,126,0,0" TextWrapping="Wrap" Text="User Profile" VerticalAlignment="Top" Width="120" GotFocus="userOn"/>
+        <TextBlock HorizontalAlignment="Right" Margin="0,105,95,0" TextWrapping="Wrap" Text="Friend/Player 1" VerticalAlignment="Top"/>
+        <TextBox x:Name="playerOneText" HorizontalAlignment="Right" Height="23" Margin="0,126,57,0" TextWrapping="Wrap" Text="Player 1 Profile" VerticalAlignment="Top" Width="120" GotFocus="play1On"/>
+        <TextBlock HorizontalAlignment="Left" Margin="57,193,0,0" TextWrapping="Wrap" Text="Friend/Player 2" VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Right" Margin="0,196,95,0" TextWrapping="Wrap" Text="Friend/Player 3" VerticalAlignment="Top"/>
+        <TextBox x:Name="playerTwoText" HorizontalAlignment="Left" Height="23" Margin="57,214,0,0" TextWrapping="Wrap" Text="Player 2 Profile" VerticalAlignment="Top" Width="120" GotFocus="play2On"/>
+        <TextBox x:Name="playerThreeText" HorizontalAlignment="Right" Height="23" Margin="0,214,57,0" TextWrapping="Wrap" Text="Player 3 Profile" VerticalAlignment="Top" Width="120" GotFocus="play3On"/>
+        <Button x:Name="getProfile" Content="Get Profile(s)" HorizontalAlignment="Center" Margin="0,276,0,0" VerticalAlignment="Top" Width="75" Click="getProfileButton"/>
+        <Button x:Name="clearProfile" Content="Clear Profile Cache" HorizontalAlignment="Left" Margin="57,276,0,0" VerticalAlignment="Top" Width="115" Height="22" Click="clearProfileClick"/>
+        <Button x:Name="clearGame" Content="Clear Game Cache" HorizontalAlignment="Right" Margin="0,276,57,0" VerticalAlignment="Top" Width="115" Click="clearGameClick"/>
+
+    </Grid>
+</Window>
